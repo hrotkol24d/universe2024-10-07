@@ -6,7 +6,7 @@ body {
 
 #content {
     width: 600px;
-    border: 5px aqua;
+    border: 5px solid rgb(228, 159, 11);
     margin: auto;
     padding: 10px;
     background-color: wheat;
